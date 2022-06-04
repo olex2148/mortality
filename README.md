@@ -15,10 +15,3 @@ summary statistics, LD score regression is likely the method that will be used t
 inference a variety of tools and methods are available e.g., LCV and GSMR. Relevant theory and literature will be
 discussed in assessing causality of mortality, yielding a statistical as well as a biologically reasonable basis for the
 conclusion of the study to be drawn.
-
-- The student should be able to describe some basics of statistical learning, such as linear regression, cross-validation, and measurements of prediction accuracies.
-- The student should be able to describe fundamental genetics concepts such as heritability and genetic correlation.
-- The student should be able to describe basics of causal inference and Mendelian randomization.
-- The student should be able to estimate heritability and genetic correlations from GWAS summary statistics.
-- The student should be able to perform Mendelian randomization using GWAS summary statistics.
-- The student should be able to interpret the results and discuss their limitations.
